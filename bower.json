@@ -1,0 +1,20 @@
+{
+  "name": "leaflet-gesture-handling",
+  "version": "1.2.0",
+  "author": "A Marquis",
+  "license": "MIT",
+  "main": [
+    "dist/leaflet-gesture-handling.js" ,
+    "dist/leaflet-gesture-handling.css" 
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "~0.7.1"
+  }
+}
